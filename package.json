@@ -1,0 +1,26 @@
+{
+  "_from": "octo-client",
+  "_id": "octo-client@1.1.1",
+  "author": {
+    "name": "arttupii",
+    "email": "",
+    "url": ""
+  },
+  "dependencies": {
+    "octo-client": "^1.1.1"
+  },
+  "deprecated": false,
+  "description": "",
+  "keywords": [
+    "octoprint",
+    "octopi",
+    "nodejs",
+    "javascript",
+    "npm"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "OctoStatus",
+  "scripts": {},
+  "version": "0.0.1"
+}
